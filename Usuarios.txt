@@ -1,0 +1,4 @@
+Administrador
+nombre de usuario: admin contraseña: admin
+Cliente
+nombre de usuario: pepe contraseña: pepe
