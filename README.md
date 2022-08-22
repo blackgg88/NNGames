@@ -1,9 +1,21 @@
-# CodeIgniter 2
-Open Source PHP Framework (originally from EllisLab)
+# NNGames
 
-For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
-(also available within the download package for offline use)
+    NNGames es una ecommerce de videojuegos y consolas. Desarrollada en CodeIgniter utilizando la arquitectura MVC.
 
-**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
-Please update your installation to the latest CodeIgniter 3.x version available
-(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
+## ** Principales herramientas usadas**
+
+- [x] HTML
+- [x] PHP
+- [x] JavaScript
+- [x] CSS
+
+## Instalacion
+- Utilizar una version de xampp con PHP 7.X
+- Dirigirse al directorio del servidor XAMPP y luego ingresar a la carpeta htdocs
+- Clonar/pegar el repositorio en la carpeta htdocs
+
+## Importar base de datos
+- Ingresar a localhost/phpmyadmin
+- Crear una nueva base de datos con nombre ci_NNgames
+- Seleccionar la opcion de importar en el panel central superior
+- Seleccionar el archivo ci_NNgames.sql que se encuentra en el proyecto
